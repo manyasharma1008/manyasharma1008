@@ -20,7 +20,7 @@
 🌟 **What I love to work with**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,java,html,css,mongodb,tailwind,praat,matlab" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,java,html,css,mongodb,tailwind,matlab" alt="Skills" />
 </p>
 
 ---
