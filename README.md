@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<h1 align="center"><span style="color:#C19AF1">I'm Manya Sharma</span></h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/I'm%20Manya%20Sharma-%23C19AF1.svg?style=for-the-badge&logo=github&logoColor=white" alt="I'm Manya Sharma badge"/>
+</p>
 <h3 align="center"> A developer passionate about crafting smooth, interactive web experiences. I'm pursuing internships and building my skills beyond just design — digging into real-world coding challenges and collaborating on impactful projects.</h3>
 
 ---
