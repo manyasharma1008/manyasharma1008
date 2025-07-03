@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">👋 Hey there! I'm Manya Sharma</h1>
+<h1 align="center">I'm Manya Sharma</h1>
 <h3 align="center"> A developer passionate about crafting smooth, interactive web experiences. I'm pursuing internships and building my skills beyond just design — digging into real-world coding challenges and collaborating on impactful projects.</h3>
 
 ---
