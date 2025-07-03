@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-<h1 align="center">I'm Manya Sharma</h1>
+<h1 align="center">
+  <span style="background: linear-gradient(to right, #C19AF1, #FF93F2); -webkit-background-clip: text; color: transparent;">
+    I'm Manya Sharma
+  </span>
+</h1>
 <h3 align="center"> A developer passionate about crafting smooth, interactive web experiences. I'm pursuing internships and building my skills beyond just design — digging into real-world coding challenges and collaborating on impactful projects.</h3>
 
 ---
