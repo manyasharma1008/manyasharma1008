@@ -11,7 +11,7 @@
 - 🚀 Learning & growing with: ML,WEB DEV,DSA
 - 🌍 Based in: Chennai,India
 - ✉️ Reach me at: manya.s1008@gmail.com
-- 🌐 Portfolio: manya-portfolio-six.vercel.app
+- 🌐 Portfolio: [manya-portfolio-six.vercel.app](https://manya-portfolio-six.vercel.app)
 - 🎯 *Mission*: Deliver impactful solutions & inspire innovation.
 - 💡 *Fun fact*: I believe a great user experience is half art, half engineering.
 
