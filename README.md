@@ -18,10 +18,17 @@
 ---
 
 🌟 **What I love to work with**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,c,cpp,python,java,html,css,tailwind,figma,vercel,next,vite,mongodb,aws" alt="Skills" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,c,cpp,aws,vercel,next,vite,canva,figma,python,java,html,css,mongodb,tailwind" alt="Skills" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/matplotlib-%230079c1.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
+
 
 ---
 
