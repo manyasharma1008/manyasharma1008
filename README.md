@@ -19,7 +19,7 @@
 
 🌟 **What I love to work with**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,c,cpp,python,java,html,css,tailwind,figma,vercel,next,vite,mongodb,aws" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,vscode,react,nodejs,firebase,c,cpp,python,java,html,css,tailwind,figma,vercel,next,vite,mongodb,aws" alt="Skills" />
 </p>
 
 <p align="center">
@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-0079C1?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logoColor=white" />
+   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
