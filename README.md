@@ -20,7 +20,7 @@
 🌟 **What I love to work with**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,c,c++,aws,vercel,ejs,next,socket.io,pandas,numpy,matplotlib,vite,canva,figma,python,java,html,css,mongodb,tailwind,matlab" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,c,cpp,aws,vercel,next,vite,canva,figma,python,java,html,css,mongodb,tailwind" alt="Skills" />
 </p>
 
 ---
