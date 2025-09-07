@@ -49,6 +49,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=manyasharma1008&show_icons=true&theme=tokyonight" alt="Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyasharma1008&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manyasharma1008&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
