@@ -54,8 +54,12 @@
 🤝 **Let's connect**
 
 <p align="center">
-  <a href="www.linkedin.com/in/manya-sharma-5a867a324" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:manya.s1008@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/manya-sharma-5a867a324" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:manya.s1008@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
+  </a>
 </p>
 
 ---
