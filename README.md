@@ -69,6 +69,15 @@
 
 ---
 
+🏆 **GitHub Trophies & Top Repos**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manyasharma1008&theme=tokyonight&no-frame=true" />
+  <br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=manyasharma1008&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
 📝 **Latest Highlights**
 
 - 🌱 Next up: We'll dive more into ML and Blockchains
