@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 <h1 align="center">✨ I'm Manya Sharma ✨ </h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manyasharma1008&label=Profile%20views&color=0e75b6&style=flat" alt="manyasharma1008" />
+</p>
 <h3 align="center"> A developer passionate about crafting smooth, interactive web experiences. I'm pursuing internships and building my skills beyond just design — digging into real-world coding challenges and collaborating on impactful projects.</h3>
 
 ---
