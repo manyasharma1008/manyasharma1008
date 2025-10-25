@@ -95,19 +95,6 @@
 
 ---
 
-### 🌟 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/manyasharma1008/Disease-Prediction-Voice-Model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manyasharma1008&repo=Disease-Prediction-Voice-Model&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/manyasharma1008/HealthSphere">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manyasharma1008&repo=HealthSphere&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ### 🔥 Activity Graph  
 
 <p align="center">
