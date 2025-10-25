@@ -89,12 +89,8 @@
 
 ### 🏆 Achievements & Trophies  
 
-<p align="center">
-  <!-- GitHub Trophies -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=manyasharma1008&theme=tokyonight&no-frame=true&margin-w=10" 
-    alt="GitHub Trophies"
-  />
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=manyasharma1008&theme=tokyonight&no-frame=true" />
   <br/>
   <!-- Contributor Stats -->
   <img 
