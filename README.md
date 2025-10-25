@@ -1,99 +1,120 @@
 <!-- Profile Header -->
-<h1 align="center">Manya Sharma</h1>
-<h3 align="center">Full-Stack Developer | ML Enthusiast | Web & Voice-Based Applications</h3>
+<h1 align="center">✨ Hey there, I'm <span style="color:#6C63FF;">Manya Sharma</span> ✨</h1>
+
+<h3 align="center">
+  🚀 A developer passionate about crafting smooth, interactive web experiences.<br/>
+  I’m exploring real-world coding challenges, building impactful projects, and growing through collaboration.
+</h3>
 
 ---
 
-### 💼 About Me
-I am a passionate developer focused on creating smooth, interactive web experiences and real-world applications. I enjoy tackling complex problems, collaborating on impactful projects, and continuously expanding my skills in web development, machine learning, and software engineering.
+### 💫 About Me  
 
-- 🔭 **Currently working on:** Disease Prediction model with voice features & dynamic web platforms  
-- 🌱 **Learning & Improving:** Advanced ML techniques, Web Development, Data Structures & Algorithms  
-- 📍 **Location:** Chennai, India  
-- ✉️ **Contact:** [manya.s1008@gmail.com](mailto:manya.s1008@gmail.com)  
+- 🔭 **Currently building:** A Disease Prediction model with voice-based features & dynamic web platforms  
+- 🚀 **Learning & Growing in:** Machine Learning, Web Development, and Data Structures  
+- 🌍 **Based in:** Chennai, India  
+- ✉️ **Reach me at:** [manya.s1008@gmail.com](mailto:manya.s1008@gmail.com)  
 - 🌐 **Portfolio:** [manya-portfolio-six.vercel.app](https://manya-portfolio-six.vercel.app)  
-- 🎯 **Mission:** Deliver meaningful solutions and inspire innovation through technology  
+- 🎯 **Mission:** Deliver meaningful solutions & inspire innovation through technology  
+- 💡 **Fun fact:** Great UX = half art, half engineering  
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" title="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" title="CSS3" />
-</p>
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-<p align="center">
-  <!-- Frameworks & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" title="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" title="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="30" title="Vite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel.svg" height="30" title="Vercel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" title="Figma" />
-</p>
-
-<p align="center">
-  <!-- Databases & Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" title="AWS" />
-</p>
-
-<p align="center">
-  <!-- Data Science -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" title="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" title="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" title="Matplotlib" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" title="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" height="30" title="Spyder" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" title="Canva" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manyasharma1008&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyasharma1008&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manyasharma1008&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
-### 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manyasharma1008&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <!-- Web Technologies -->
   <br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=manyasharma1008&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+  <!-- Databases & Tools -->
+  <br/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+  <!-- ML/Data Tools -->
+  <br/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-0079C1?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manya-sharma-5a867a324" target="_blank">LinkedIn</a> • 
-  <a href="mailto:manya.s1008@gmail.com">Email</a> • 
-  <a href="https://manya-portfolio-six.vercel.app" target="_blank">Portfolio</a>
+  <a href="https://www.linkedin.com/in/manya-sharma-5a867a324" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:manya.s1008@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://manya-portfolio-six.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
 
+### 📊 GitHub Analytics  
+
 <p align="center">
-  ⚡ <em>Let's connect and build something impactful together.</em> ⚡
+  <img src="https://github-readme-stats.vercel.app/api?username=manyasharma1008&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyasharma1008&layout=compact&theme=tokyonight" height="165" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manyasharma1008&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 Achievements & Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manyasharma1008&theme=tokyonight&margin-w=8&no-frame=true" />
+</p>
+
+---
+
+### 🔥 Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manyasharma1008&theme=tokyo-night" alt="activity graph"/>
+</p>
+
+---
+
+### 📝 Latest Highlights  
+
+- 🌱 Next Up: Exploring advanced ML techniques & real-world deployment  
+- 🤝 Open To: Collaborations, Internships & Hackathons  
+- 💬 Ask Me About: Web apps, ML projects, or creative UI/UX ideas  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manyasharma1008&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+<p align="center">⚡ <em>Thanks for stopping by! Let's connect and build something awesome together.</em> ⚡</p>
