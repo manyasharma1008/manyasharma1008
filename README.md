@@ -1,22 +1,24 @@
 <!-- Profile Header -->
-<h1 align="center">✨ Hey there, I'm <span style="color:#6C63FF;">Manya Sharma</span> ✨</h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#6C63FF;">Manya Sharma</span></h1>
 
 <h3 align="center">
-  🚀 A developer passionate about crafting smooth, interactive web experiences.<br/>
-  I’m exploring real-world coding challenges, building impactful projects, and growing through collaboration.
+  💡 A passionate developer exploring the intersection of <strong>AI, ML, and Web Technologies</strong>.<br/>
+  I love turning data and ideas into intelligent, user-centric solutions.
 </h3>
 
 ---
 
 ### 💫 About Me  
 
-- 🔭 **Currently building:** A Disease Prediction model with voice-based features & dynamic web platforms  
-- 🚀 **Learning & Growing in:** Machine Learning, Web Development, and Data Structures  
-- 🌍 **Based in:** Chennai, India  
-- ✉️ **Reach me at:** [manya.s1008@gmail.com](mailto:manya.s1008@gmail.com)  
+- 🔭 **Currently Working On:** AI-driven disease prediction model using voice analysis & web-based health solutions  
+- 🧠 **Exploring:** Deep Learning, LLMs, Generative AI, and Blockchain for decentralized innovation  
+- 💻 **Core Interests:** Applied Machine Learning, Web Systems, and AI Product Development  
+- 🚀 **Tech Stack Growth Areas:** React, Next.js, Node.js, TensorFlow, and AWS  
+- 🌍 **Location:** Chennai, India  
+- ✉️ **Reach Me At:** [manya.s1008@gmail.com](mailto:manya.s1008@gmail.com)  
 - 🌐 **Portfolio:** [manya-portfolio-six.vercel.app](https://manya-portfolio-six.vercel.app)  
-- 🎯 **Mission:** Deliver meaningful solutions & inspire innovation through technology  
-- 💡 **Fun fact:** Great UX = half art, half engineering  
+- 🎯 **Mission:** Build scalable, research-driven applications that empower people through technology  
+- ⚡ **Fun Fact:** I see every project as a blend of creativity and computational logic  
 
 ---
 
@@ -28,7 +30,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
   <!-- Web Technologies -->
@@ -48,12 +49,12 @@
 
   <!-- ML/Data Tools -->
   <br/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-0079C1?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
@@ -87,24 +88,16 @@
 
 ---
 
-### 🏆 Achievements & Trophies  
+### 🏆 GitHub Achievements  
 
-<p align="center">
-  <!-- GitHub Trophies -->
+<div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=manyasharma1008&theme=tokyonight&no-frame=true&margin-w=10" 
+    src="https://github-profile-trophy.vercel.app/?username=manyasharma1008&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" 
     alt="GitHub Trophies"
   />
-  <br/>
-  <!-- Contributor Stats -->
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=manyasharma1008&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" 
-    alt="GitHub Contributor Stats"
-  />
-</p>
+</div>
 
 ---
-
 
 ### 🔥 Activity Graph  
 
@@ -114,11 +107,11 @@
 
 ---
 
-### 📝 Latest Highlights  
+### 🧠 Current Focus  
 
-- 🌱 Next Up: Exploring advanced ML techniques & real-world deployment  
-- 🤝 Open To: Collaborations, Internships & Hackathons  
-- 💬 Ask Me About: Web apps, ML projects, or creative UI/UX ideas  
+- 🚀 Researching ML-based health diagnostics & speech-based AI applications  
+- 🧩 Building full-stack AI-integrated applications  
+- 🤝 Open for: Collaborations, Research Projects & Internships  
 
 ---
 
@@ -128,4 +121,6 @@
 
 ---
 
-<p align="center">⚡ <em>Thanks for stopping by! Let's connect and build something awesome together.</em> ⚡</p>
+<p align="center">
+  ⚡ <em>Thanks for visiting — always up for learning, building, and innovating!</em> ⚡
+</p>
