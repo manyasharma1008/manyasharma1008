@@ -13,15 +13,15 @@ that’s my personality type 😭.
 
 ## 🧠 About Me
 
-- 🔭 Working on: **AI-driven health diagnostics (Voice + ML)**  
-- 🧠 Exploring: **Deep Learning, LLMs, Generative AI, Blockchain**  
-- 💻 Interests: **Applied ML, Web Systems, Research-Based Applications**  
-- 🚀 Growth Areas: **React, Next.js, Node.js, TensorFlow, AWS**  
-- 🌍 Location: Chennai, India  
-- ✉️ Email: **manya.s1008@gmail.com**  
-- 🌐 Portfolio: **https://manya-portfolio-six.vercel.app**  
-- 🎯 Mission: Build tech that actually *helps* people  
-- ⚡ Fun fact: My debugging skills peak only after midnight  
+- 🔭 **Working on:** AI-driven health diagnostics (Voice + ML)  
+- 🧠 **Exploring:** Deep Learning, LLMs, Generative AI, Blockchain  
+- 💻 **Interests:** Applied ML, Web Systems, Research-Based Applications  
+- 🚀 **Growth Areas:** React, Next.js, Node.js, TensorFlow, AWS  
+- 🌍 **Location:** Chennai, India  
+- ✉️ **Email:** manya.s1008@gmail.com  
+- 🌐 **Portfolio:** https://manya-portfolio-six.vercel.app  
+- 🎯 **Mission:** Build tech that actually *helps* people  
+- ⚡ **Fun fact:** My debugging skills peak only after midnight
 
 ---
 
@@ -86,15 +86,13 @@ that’s my personality type 😭.
 
 ## 📊 GitHub Analytics
 
-<!-- main stats (ensure username is correct) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manyasharma1008&show_icons=true&theme=tokyonight&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyasharma1008&layout=compact&theme=tokyonight" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=manyasharma1008&theme=highcontrast&show_icons=true&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=manyasharma1008&langs_count=8&layout=compact&theme=highcontrast&hide_border=true" height="165" alt="Top languages" />
 </p>
 
-<!-- streak: some services change their domain -> using vercel app (if heroku/heroku-hosted breaks) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manyasharma1008&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=manyasharma1008&theme=highcontrast&hide_border=true" height="180" alt="GitHub streak stats" />
 </p>
 
 ---
@@ -102,10 +100,7 @@ that’s my personality type 😭.
 ## 🏆 GitHub Trophies & Contributor Stats
 
 <p align="center">
-  <!-- trophy card -->
   <img src="https://github-profile-trophy.vercel.app/?username=manyasharma1008&theme=tokyonight&no-frame=true&margin-w=10" alt="Trophies" />
-
-  <!-- contributor stats: using two services as fallback -->
   <br/><br/>
   <img src="https://github-contributor-stats.vercel.app/api?username=manyasharma1008&limit=6&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor stats" />
 </p>
@@ -113,13 +108,14 @@ that’s my personality type 😭.
 ---
 
 ## 🔥 Activity Graph  
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manyasharma1008&theme=tokyo-night" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manyasharma1008&theme=react-dark&hide_border=true" alt="activity graph" />
 </p>
 
 ---
 
-## 🤝 Connect With Me  
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manya-sharma-5a867a324" target="_blank">
@@ -135,11 +131,11 @@ that’s my personality type 😭.
 
 ---
 
-## 🧠 Current Focus  
+## 🧠 Current Focus
 
 - 🚀 ML-based health diagnostics  
 - 🧩 Building full-stack AI-integrated applications  
-- 🤝 Open for collaborations, research & internships  
+- 🤝 Open for collaborations, research & internships
 
 ---
 
