@@ -28,58 +28,50 @@ that’s my personality type 😭.
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-
-<!-- Programming Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 <br/>
 
-<!-- Web / Backend / APIs -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 <br/>
 
-<!-- Databases & Cache -->
-<img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
 <br/>
 
-<!-- ML / Data / Models -->
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/HuggingFace-FF6A00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FF6A00?style=for-the-badge&logo=huggingface&logoColor=white" />
 
 <br/>
 
-<!-- DevOps / Infra -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 <br/>
 
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/Prometheus-FF6B6B?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-FF6B6B?style=for-the-badge&logo=prometheus&logoColor=white" />
 </p>
 
 ---
@@ -87,30 +79,29 @@ that’s my personality type 😭.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=manyasharma1008&theme=highcontrast&show_icons=true&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=manyasharma1008&langs_count=8&layout=compact&theme=highcontrast&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=manyasharma1008&theme=highcontrast&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=manyasharma1008&langs_count=8&layout=compact&theme=highcontrast&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=manyasharma1008&theme=highcontrast&hide_border=true" height="180" alt="GitHub streak stats" />
-</p>
-
----
-
-## 🏆 GitHub Trophies & Contributor Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manyasharma1008&theme=tokyonight&no-frame=true&margin-w=10" alt="Trophies" />
-  <br/><br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=manyasharma1008&limit=6&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=manyasharma1008&theme=highcontrast&hide_border=true" height="180" />
 </p>
 
 ---
 
-## 🔥 Activity Graph  
+## 🏅 GitHub Highlights & Contributor Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manyasharma1008&theme=react-dark&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=manyasharma1008&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=manyasharma1008&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=manyasharma1008&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manyasharma1008&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -118,30 +109,18 @@ that’s my personality type 😭.
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manya-sharma-5a867a324" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/manya-sharma-5a867a324">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:manya.s1008@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://manya-portfolio-six.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://manya-portfolio-six.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
-
-## 🧠 Current Focus
-
-- 🚀 ML-based health diagnostics  
-- 🧩 Building full-stack AI-integrated applications  
-- 🤝 Open for collaborations, research & internships
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manyasharma1008&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 <p align="center">
   ⚡ <em>Thanks for visiting — always building, learning, and innovating!</em> ⚡
