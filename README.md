@@ -89,20 +89,12 @@ that’s my personality type 😭.
 
 ---
 
-## 🏅 GitHub Highlights & Contributor Stats
+## 🏅 GitHub Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=manyasharma1008&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=manyasharma1008&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=manyasharma1008&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manyasharma1008&theme=react-dark&hide_border=true" />
-</p>
+- 🚀 Built projects across **AI/ML, Health Tech, Voice Processing & Full Stack**
+- 🧠 Hands-on experience with **ML pipelines, RAG systems, and real-world datasets**
+- 🔁 Consistent contributor with active repositories and deployments
+- 🌱 Continuously learning and shipping production-ready applications
 
 ---
 
