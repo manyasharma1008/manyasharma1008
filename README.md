@@ -6,22 +6,22 @@
 I’m an AIML undergrad who loves building intelligent systems and full-stack applications.  
 From AI-powered disease detection to scalable web apps — I enjoy creating things that think *and* look good.
 
-Breaking code, fixing it at the last minute, deploying apps that magically work on the first try…  
+Breaking code, fixing it with almost able to break my system, deploying apps that magically never work on the first try…  
 that’s my personality type 😭.
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 **Working on:** AI-driven health diagnostics (Voice + ML)  
-- 🧠 **Exploring:** Deep Learning, LLMs, Generative AI, Blockchain  
+- 🔭 **Working on:** AI-driven health diagnostics (multimodal ml+dl) 
+- 🧠 **Exploring:** Deep Learning, LLMs, Generative AI, Blockchain 
 - 💻 **Interests:** Applied ML, Web Systems, Research-Based Applications  
-- 🚀 **Growth Areas:** React, Next.js, Node.js, TensorFlow, AWS  
+- 🚀 **Growth Areas:** React, Next.js, Node.js, TensorFlow, AWS , Pytorch
 - 🌍 **Location:** Chennai, India  
 - ✉️ **Email:** manya.s1008@gmail.com  
 - 🌐 **Portfolio:** https://manya-portfolio-six.vercel.app  
 - 🎯 **Mission:** Build tech that actually *helps* people  
-- ⚡ **Fun fact:** My debugging skills peak only after midnight
+- ⚡ **Fun fact:** My debugging skills peak only before midnight which is strange for coders
 
 ---
 
