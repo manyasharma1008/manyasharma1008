@@ -75,6 +75,7 @@ that’s my personality type 😭.
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -88,6 +89,7 @@ that’s my personality type 😭.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyasharma1008&layout=compact&theme=highcontrast&hide_border=true" height="160"/>
 
 </div>
+
 ---
 
 ## 🏅 GitHub Highlights
