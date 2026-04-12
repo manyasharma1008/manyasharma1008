@@ -76,16 +76,19 @@ that’s my personality type 😭.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=manyasharma1008&theme=highcontrast&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=manyasharma1008&langs_count=8&layout=compact&theme=highcontrast&hide_border=true" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=manyasharma1008&theme=highcontrast&hide_border=true" height="180" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=manyasharma1008&show_icons=true&theme=highcontrast&hide_border=true" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=manyasharma1008&theme=highcontrast&hide_border=true" height="165" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manyasharma1008&theme=react-dark&hide_border=true" width="98%" />
+
+</div>
 
 ---
 
