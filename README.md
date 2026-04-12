@@ -75,29 +75,19 @@ that’s my personality type 😭.
 </p>
 
 ---
-
-## 📊 GitHub Activity & Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manyasharma1008&theme=highcontrast" />
-
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=manyasharma1008&show_icons=true&theme=highcontrast&hide_border=true" />
+
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com?user=manyasharma1008&theme=highcontrast&hide_border=true" />
 
 <br/>
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyasharma1008&layout=compact&theme=highcontrast&hide_border=true" />
 
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manyasharma1008&theme=highcontrast&utcOffset=5.5" />
-
 </div>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manyasharma1008&theme=react-dark&hide_border=true" />
-</p>
 ---
 
 ## 🏅 GitHub Highlights
