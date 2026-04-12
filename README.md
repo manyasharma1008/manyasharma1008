@@ -80,9 +80,7 @@ that’s my personality type 😭.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manyasharma1008&show_icons=true&theme=highcontrast&hide_border=true" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=manyasharma1008&theme=highcontrast&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=manyasharma1008&theme=highcontrast&hide_border=true" height="170" />
 
 <br><br>
 
