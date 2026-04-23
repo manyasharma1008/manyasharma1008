@@ -78,14 +78,14 @@ that’s my personality type 😭.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manyasharma1008&show_icons=true&theme=highcontrast&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=manyasharma1008&theme=highcontrast&hide_border=true" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manyasharma1008&layout=compact&theme=highcontrast&hide_border=true" height="160"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Vedant23258&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant23258&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant23258&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+
+</div>
 
 ---
 
