@@ -86,13 +86,9 @@ that’s my personality type 😭.
 
 <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=manyasharma1008&hide=HTML,css,scss,cmake,swift&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true" alt="Top Languages">
 
-<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manyasharma1008&theme=radical&utcOffset=5.5">
-
 <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=manyasharma1008&hide=HTML,css,scss,cmake,swift&layout=donut&theme=radical&hide_border=true" alt="Top Languages">
 
 <img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api?username=manyasharma1008&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-
-<img height="170em" src="https://nirzak-streak-stats.vercel.app/?user=manyasharma1008&theme=radical&hide_border=true" alt="GitHub Streak">
 
 </div>
 
