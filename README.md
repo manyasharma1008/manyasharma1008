@@ -78,9 +78,28 @@ that’s my personality type 😭.
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manyasharma1008&theme=radical">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manyasharma1008&theme=radical">
+
+<img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=manyasharma1008&hide=HTML,css,scss,cmake,swift&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true" alt="Top Languages">
+
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manyasharma1008&theme=radical&utcOffset=5.5">
+
+<img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=manyasharma1008&hide=HTML,css,scss,cmake,swift&layout=donut&theme=radical&hide_border=true" alt="Top Languages">
+
+<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api?username=manyasharma1008&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+
+<img height="170em" src="https://nirzak-streak-stats.vercel.app/?user=manyasharma1008&theme=radical&hide_border=true" alt="GitHub Streak">
+
+</div>
+
+<br>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manyasharma1008&show_icons=true&theme=highcontrast&hide_border=true&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyasharma1008&layout=compact&theme=highcontrast&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manyasharma1008&bg_color=0D1117&color=C084FC&line=A855F7&point=E9D5FF&area=true&area_color=581C87&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
 ---
